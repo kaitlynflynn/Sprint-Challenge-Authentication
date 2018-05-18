@@ -25,7 +25,9 @@
     "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
     "mongoose": "^4.13.7",
-    "node-fetch": "^1.7.3"
+    "node-fetch": "^1.7.3",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "nodemon": "^1.17.4"
