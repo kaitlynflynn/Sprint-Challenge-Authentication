@@ -1,5 +1,46 @@
 .App {
   text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 28px;
+  color: aquamarine;
+  text-shadow:
+  -10px -4px 0 #000,
+  2px -2px 0 #000,
+  -10px 4px 0 #000,
+  2px 2px 0 #000;
+  text-shadow: 5px 5px 5px purple;
+}
+
+.signout-btn {
+  color: lightblue;
+  background-color:black;
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.signin-btn {
+  background-color: lightblue;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+}
+
+.login-btn {
+  background-color: lightblue;
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+}
+
+.username {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.password {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
 }
 
 .App-logo {
@@ -10,12 +51,19 @@
 .App-header {
   background-color: #222;
   height: 150px;
-  padding: 20px;
+  padding: 30px;
   color: white;
 }
 
 .App-title {
-  font-size: 1.5em;
+  font-size: 36px;
+  color: lightblue;
+  text-shadow:
+		-10px -3px 0 #000,
+		1px -1px 0 #000,
+		-10px 3px 0 #000,
+    1px 1px 0 #000;
+    text-shadow: 3px 3px 4px purple;
 }
 
 .App-intro {
